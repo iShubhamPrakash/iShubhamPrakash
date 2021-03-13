@@ -1,14 +1,20 @@
-I am a full stack (MERN) developer specialized in Front-end development. I am proficient in working with React + Redux along with other UI libraries and frameworks like Bootstrap, materialize, etc.
+Shubham is a full-stack (MERN) developer specialized in Front-end development. He is proficient in working with React + Redux along with other UI libraries.
 
-I have more than 2 years of experience helping startups build their products having complex features.
+He has more than 2 years of experience helping startups build and launch their products in the market.
 
-I also like mentoring people and help them in the field of development. I am a part-time Udacity mentor and project reviewer. At Udacity, I utilize my specialized knowledge in the field of Front End web development, React, Javascript, etc. and my strong communication skills to provide code reviews and other student support services.
+He also likes mentoring people and helps them in the field of development. He is a Mentor at one of the world's best edTech platforms Udacity.
 
-In my spare time, I like to write technical blogs at dev.to/shubhamprakash](https://dev.to/shubhamprakash) 📝 
+At Udacity, he utilizes his specialized knowledge in the field of Front End web development, React, Javascript, etc., and his strong communication skills to provide code reviews and other student support services.
+
+In his spare time, he likes to write blogs at https://dev.to/shubhamprakash 📝 
 
 [Download Resume](https://docs.google.com/document/d/1jIfRZ-U1z_GaC5KZl3A0CQAage7l7EqR1j3S2liyiKA/edit?usp=sharing)
 
-### Skills
+
+<details>
+  <summary>Skills (Click to view)</summary>
+
+### Technical
 
 - Domain of Specialisation
   * Frontend Development
@@ -43,10 +49,13 @@ In my spare time, I like to write technical blogs at dev.to/shubhamprakash](http
   - ![Macbook](https://img.shields.io/badge/Apple-MacBook_Pro_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
   - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+</details>
+
+
 
 ### Contact
 [![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishubhamprakash/)
-[![Twitter](https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&color=%231DA1F2&logoColor=%23fff)](https://twitter.com/isuvm/)
+[![Twitter](https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&color=%231DA1F2&logoColor=%23fff)](https://twitter.com/_shubhamprakash/)
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham.prakash2308@gmail.com)
 
 
