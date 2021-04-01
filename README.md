@@ -1,12 +1,12 @@
-Shubham is a full-stack (MERN) developer specialized in Front-end development. He is proficient in working with React + Redux along with other UI libraries.
+Shubham is a Frontend focused Fullstack (MERN) developer. He is proficient in working with React + Redux along with other UI libraries.
 
 He has more than 2 years of experience helping startups build and launch their products in the market.
 
-He also likes mentoring people and helps them in the field of development. He is a Mentor at one of the world's best edTech platforms Udacity.
+He also likes mentoring people and helps them in the field of software development. He is a Mentor at one of the world's best edTech platforms Udacity.
 
 At Udacity, he utilizes his specialized knowledge in the field of Front End web development, React, Javascript, etc., and his strong technical and communication skills to provide code reviews and other student support services.
 
-In his spare time, he likes to write blogs at https://dev.to/shubhamprakash 📝 
+In his spare time, he likes to write blogs at https:blog.shubhamprakash.dev 📝 
 
 [![View Full Resume](https://img.shields.io/badge/%20-View%20Full%20Resume%20-9cf)](https://docs.google.com/document/d/1jIfRZ-U1z_GaC5KZl3A0CQAage7l7EqR1j3S2liyiKA/edit?usp=sharing)
 
@@ -58,16 +58,12 @@ In his spare time, he likes to write blogs at https://dev.to/shubhamprakash 📝
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham.prakash2308@gmail.com)
 
 
-### Resume
-
 [![Download Resume](https://img.shields.io/badge/%20-Download%20Resume%20-success)](https://docs.google.com/document/d/1jIfRZ-U1z_GaC5KZl3A0CQAage7l7EqR1j3S2liyiKA/edit?usp=sharing)
 
 
-[Download Resume](https://docs.google.com/document/d/1jIfRZ-U1z_GaC5KZl3A0CQAage7l7EqR1j3S2liyiKA/edit?usp=sharing)
-
 <!--
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=i-shubhamprakash&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ishubhamprakash&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 --!>
 
