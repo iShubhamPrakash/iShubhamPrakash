@@ -6,9 +6,7 @@ He also likes mentoring people and helps them in the field of software developme
 
 At Udacity, he utilizes his specialized knowledge in the field of Front End web development, React, Javascript, etc., and his strong technical and communication skills to provide code reviews and other student support services.
 
-In his spare time, he likes to write blogs at https:blog.shubhamprakash.dev 📝 
-
-[![View Full Resume](https://img.shields.io/badge/%20-View%20Full%20Resume%20-9cf)](https://docs.google.com/document/d/1jIfRZ-U1z_GaC5KZl3A0CQAage7l7EqR1j3S2liyiKA/edit?usp=sharing)
+In his spare time, he likes to write blogs at https://blog.shubhamprakash.dev 📝 
 
 <details>
   <summary>Skills (Click to view)</summary>
@@ -58,7 +56,7 @@ In his spare time, he likes to write blogs at https:blog.shubhamprakash.dev 📝
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham.prakash2308@gmail.com)
 
 
-[![Download Resume](https://img.shields.io/badge/%20-Download%20Resume%20-success)](https://docs.google.com/document/d/1jIfRZ-U1z_GaC5KZl3A0CQAage7l7EqR1j3S2liyiKA/edit?usp=sharing)
+[![View/Download Resume](https://img.shields.io/badge/%20-Download%20Resume%20-success)](https://docs.google.com/document/d/1jIfRZ-U1z_GaC5KZl3A0CQAage7l7EqR1j3S2liyiKA/edit?usp=sharing)
 
 
 <!--
