@@ -1,3 +1,5 @@
+![EzSaeKmVUAk9wXy](https://user-images.githubusercontent.com/28767301/115162210-dbb1ea80-a0bf-11eb-9237-b00abe75fdda.jpeg)
+
 Shubham is a Frontend focused Fullstack (MERN) developer. He is proficient in working with React + Redux along with other UI libraries.
 
 He has more than 2 years of experience helping startups build and launch their products in the market.
