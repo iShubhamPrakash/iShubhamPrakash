@@ -40,6 +40,7 @@ In his spare time, he likes to write blogs at https://blog.shubhamprakash.dev ðŸ
     ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
     ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![GraphQL](https://img.shields.io/badge/GraphQL-CC6699?style=for-the-badge&logo=graphql&logoColor=white)
     
   - Unit Testing
     - ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white)
